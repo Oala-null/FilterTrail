@@ -1,0 +1,21 @@
+# 构建目录
+dist/
+build/
+__pycache__/
+*.spec
+hooks/
+
+# 临时文件
+temp_*.html
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 数据文件（可能包含用户数据）
+filter_data_backup.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
