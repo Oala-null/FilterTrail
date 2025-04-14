@@ -2,6 +2,9 @@
 
 A lightweight Windows application that monitors Excel filter operations, records filter sequences and data counts, and visualizes the filtration process using Sankey diagrams.
 
+![image](https://github.com/user-attachments/assets/05d32b4c-3e63-4eb0-b6ce-5452397beaeb)
+
+
 ## Features
 - Real-time monitoring of Excel filter operations
 - Tracking of filter sequence and filter steps
