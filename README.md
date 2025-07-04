@@ -2,6 +2,9 @@
 
 
 https://www.youtube.com/watch?v=B2SaTRrf5Hs
+
+
+
 A lightweight Windows application that monitors Excel filter operations, records filter sequences and data counts, and visualizes the filtration process using Sankey diagrams.
 
 ![image](https://github.com/user-attachments/assets/05d32b4c-3e63-4eb0-b6ce-5452397beaeb)
